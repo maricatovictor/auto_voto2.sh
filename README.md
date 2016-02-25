@@ -1,0 +1,1 @@
+# auto_voto2.sh
